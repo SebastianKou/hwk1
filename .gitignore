@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 *data/
+=======
+.ipynb_checkpoints/
+>>>>>>> d5733e9 (Ignore Jupyter checkpoints)
